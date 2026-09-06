@@ -94,7 +94,7 @@ class PuzzleGame:
         if self.numbers == [1, 2, 3, 4, 5, 6, 7, 8, 0]:
             messagebox.showinfo(
                 "Winner",
-                "Congratulations! Puzzle Solve Ho Gaya 🎉"
+                "Congratulations! you won 🎉"
             )
 
 root = tk.Tk()
